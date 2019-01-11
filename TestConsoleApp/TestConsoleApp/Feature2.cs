@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestConsoleApp
 {
-    class Program
+    class Feature2
     {
-        static void Main(string[] args)
-        {
-            //This is my first Line of code
-
-            // Calling Feature 2
-        }
     }
 }
